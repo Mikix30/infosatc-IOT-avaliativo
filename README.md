@@ -42,7 +42,7 @@ Atividade avaliativa da disciplina de IOT do curso técnico de informática SATC
 
 <br>
 
-> Extensões utilizadas no <a href="https://code.visualstudio.com/"> Visual Studio Code</a>:<a href="https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github1"> GitHub</a>, <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python"> Python</a>, <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Intellicode</a>, <a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets"> Rainbow Brackets</a> e  <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"> GitLens - Git Supercharged</a>.
+> Extensões utilizadas no <a href="https://code.visualstudio.com/"> Visual Studio Code</a>:<a href="https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github1"> GitHub</a>, <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Intellicode</a>, <a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets"> Rainbow Brackets</a> e  <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"> GitLens - Git Supercharged</a>.
  
 
 <br>
