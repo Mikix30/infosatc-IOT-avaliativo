@@ -27,6 +27,8 @@ Atividade avaliativa da disciplina de IOT do curso técnico de informática SATC
 * Linguagem: <a href="https://www.inf.pucrs.br/~pinho/LaproI/IntroC/IntroC.htm"> 
  C 
  </a>.
+ 
+* <a href="https://www.canva.com/design/DAEOW6yKD2w/QmJx5jRSxybnE0BAg4uNyg/view?utm_content=DAEOW6yKD2w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"> Apresentação</a> no <a href="https://www.canva.com/"> Canva</a>
 
 * Descrição: Esse projeto foi desenvolvido na aula de IOT do curso técnico de informática, o projeto foi orientado pelo professor <a href="https://www.instagram.com/professor.vagner/"> Vagner Rodrigues</a>, entre os dias 16/11/2020 à 30/11/2020 no <a href="https://www.tinkercad.com/"> Tinkercad </a>.
 
