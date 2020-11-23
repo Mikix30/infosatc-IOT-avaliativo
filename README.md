@@ -20,7 +20,6 @@ Atividade avaliativa da disciplina de IOT do curso técnico de informática SATC
  30/11/2020
 
 
-
  * Matéria: IOT  <a href="https://www.oracle.com/br/internet-of-things/"> 
  (IOT)
 </a>.
